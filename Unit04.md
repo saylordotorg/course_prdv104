@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV104: Professional Etiquette"
+course_description: "In this course, you will learn about typical workplace etiquette protocols, communication standards, and cultural awareness strategies in order to navigate these common obstacles as smoothly as possible."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation’s “PRDV104 Final Exam”**
     Link: The Saylor Foundation’s [“PRDV104 Final

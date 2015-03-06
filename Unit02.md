@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV104: Professional Etiquette"
+course_description: "In this course, you will learn about typical workplace etiquette protocols, communication standards, and cultural awareness strategies in order to navigate these common obstacles as smoothly as possible."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Workplace Communication** <span id="2"></span> 
 *Have you ever worked for an organization where there was little to no
 communication about important tasks?  Employees are expected to

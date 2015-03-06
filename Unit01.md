@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV104: Professional Etiquette"
+course_description: "In this course, you will learn about typical workplace etiquette protocols, communication standards, and cultural awareness strategies in order to navigate these common obstacles as smoothly as possible."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Workplace Courtesy** <span id="1"></span> 
 *Everyday courteous behaviors such as holding the door for the person
 behind you, saying “please” and “thank you” at the dinner table, and
